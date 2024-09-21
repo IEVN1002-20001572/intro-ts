@@ -17,7 +17,7 @@ export class Punto {
 
  
     imprimir(): void {
-        console.log(`Punto 1: (${this.x1}, ${this.y1}) Punto 2: (${this.x2}, ${this.y2})`);
+        console.log(`Punto 1: (${this.x1}, ${this.y1}) Puntos 2: (${this.x2}, ${this.y2})`);
     }
 }
 
